@@ -1,0 +1,27 @@
+{
+  "name": "dockerfile-amazon-db2-nodejs",
+  "version": "1.0.0",
+  "description": "Dockerfile Configuration Usage with IBM DB2 and NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/berlinbrown/dockerfile-amazon-db2-nodejs.git"
+  },
+  "keywords": [
+    "amazon",
+    "db2"
+  ],
+  "author": "Berlin Brown",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/berlinbrown/dockerfile-amazon-db2-nodejs/issues"
+  },
+  "homepage": "https://github.com/berlinbrown/dockerfile-amazon-db2-nodejs#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "ibm_db": "^2.6.4"
+  }
+}
