@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/berlinbrown/dockerfile-amazon-db2-nodejs#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "ibm_db": "^2.6.4"
   }
 }
